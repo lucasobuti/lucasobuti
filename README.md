@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/lucasobuti/lucasobuti/blob/main/image.jpg)
 
 • Studying Electrical Engineering at [**UEL**](https://portal.uel.br/home/) 
 
